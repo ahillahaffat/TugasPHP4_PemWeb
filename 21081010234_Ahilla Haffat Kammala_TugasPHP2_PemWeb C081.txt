@@ -1,2 +1,0 @@
-//Link Github
-https://github.com/ahillahaffat/TugasPHP2_PemWeb.git
